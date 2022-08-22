@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'DynaPuff', cursive;
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.jumbotron {
+    min-height: 100vh;
+}
